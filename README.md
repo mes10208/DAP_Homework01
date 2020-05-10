@@ -13,5 +13,5 @@ scrapy crawl article -o data.json
 ```
 
 ## Autor
-Nombre: Alejandra Daniela Mesalles Salcedo
-Carnet: 10208
+* Nombre: Alejandra Daniela Mesalles Salcedo
+* Carnet: 10208
